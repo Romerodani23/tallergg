@@ -1,0 +1,2 @@
+Lo visto en la clase fue: La clase pasada estudiamos un documento
+en el cual aprendimos los comandos sobre git 
