@@ -4,4 +4,6 @@ vimos la calse pasada el cual trató sobre los comandos de git y como usarlos.
 La clase de hoy estamos estudiando el taller sobre taller git actualizado.
 basandonos en lo que vimos la clase pasada y el documento en donde aprendimos los caomandos para usar git. 
 Se llama control de versiones a la gestion de los diversos cambnios que se realizan sobre los elementos de algún 
-producto o una configuracion del mismo
+producto o una configuracion del mismo.
+
+Como ignorar archivos para no ser comprometidos en el área de trabajo.
